@@ -12,3 +12,5 @@ https://github.com/meghankbock/run-buddy/
 
 ## Contribution
 Made with ❤️ by Meghan Bock
+
+### ©️2019 Run Buddy, Inc
