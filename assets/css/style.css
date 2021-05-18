@@ -203,7 +203,11 @@ section {
     margin-right: 20px;
 }
 
-.step text {
+.step-img img {
+    max-width: 100%;
+}
+
+.step-text {
     flex: 12;
 }
 .step-text h4 {
